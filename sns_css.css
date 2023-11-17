@@ -1,0 +1,55 @@
+body {
+    font-family: 'Montserrat', 'Gowun Dodum';
+}
+
+
+.content {
+    margin: 30px auto;
+    padding: 20px;
+    width: 600px;
+}
+
+
+h1 {
+    text-align: center;
+    margin: 10px auto;
+    padding: 40px 0;
+}
+
+h2, .links {
+    padding: 5px 15px;
+}
+
+.top {
+    background-color: #e9aae2;
+    height: 120px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+.part {
+    background-color: #ffecfc;
+    height: 130px;
+    width: 100%;
+    margin: 20px auto;
+}
+
+.uni {
+    background-color: #ffecfc;
+    height: 210px;
+    width: 100%;
+    margin: 10px auto;
+}
+
+.buttom {
+    background-color: #575757;
+    height: 80px;
+    width: 100%;
+    margin: 0px auto;
+}
+
+#mail {
+    text-align: center;
+    font-weight: 400;
+    padding: 30px;
+}
